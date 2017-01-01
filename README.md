@@ -1,4 +1,4 @@
-# CustomModPE
+# NewModPE
 Adds new hooks and methods for ModPE. <br />
 It can break the ModPE's limit.
 ## Current API:
